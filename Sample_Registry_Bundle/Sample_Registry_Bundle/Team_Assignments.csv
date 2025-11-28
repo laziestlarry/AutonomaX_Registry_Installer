@@ -1,0 +1,19 @@
+project_id,role,assignee,capacity_pct,work_packages,notes
+cbe786971f1d,Program Commander,Ada,10,,Governance
+cbe786971f1d,Project Manager,Lee,30,P1..P7,Schedule/RAID
+cbe786971f1d,Copy Specialist,Imani,50,T01;T02;T06,Offer & listing copy
+cbe786971f1d,Designer,Ravi,40,T03;T04,Thumbnails
+cbe786971f1d,Operator-Channel,Tal,35,T07;T08,Channel packaging
+cbe786971f1d,QA/Telemetry,Bo,30,,Evidence & weekly report
+d7a470a7aff9,Program Commander,Ada,10,,Governance
+d7a470a7aff9,Project Manager,Lee,30,P1..P7,Schedule/RAID
+d7a470a7aff9,Copy Specialist,Imani,50,T01;T02;T06,Offer & listing copy
+d7a470a7aff9,Designer,Ravi,40,T03;T04,Thumbnails
+d7a470a7aff9,Operator-Channel,Tal,35,T07;T08,Channel packaging
+d7a470a7aff9,QA/Telemetry,Bo,30,,Evidence & weekly report
+e97d93a36b7e,Program Commander,Ada,10,,Governance
+e97d93a36b7e,Project Manager,Lee,30,P1..P7,Schedule/RAID
+e97d93a36b7e,Copy Specialist,Imani,50,T01;T02;T06,Offer & listing copy
+e97d93a36b7e,Designer,Ravi,40,T03;T04,Thumbnails
+e97d93a36b7e,Operator-Channel,Tal,35,T07;T08,Channel packaging
+e97d93a36b7e,QA/Telemetry,Bo,30,,Evidence & weekly report

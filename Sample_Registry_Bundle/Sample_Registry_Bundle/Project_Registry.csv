@@ -1,0 +1,61 @@
+project_id,name,aliases,category,business_focus,source_path,origin,channel,status,percent_complete,outcome_target,offers,products,services,mission,strategies,goals,tasks,actions,steps,owner,sponsor,squad,stakeholders,partners,risk_level,issues,next_actions,due_by,last_touch,evidence_refs,score_total,score_preset,notes
+cbe786971f1d,BOP Accelerator — Offer Seeds 2025,,experiment,rapid-offer-discovery,,local,web,discovery,35,Validate 3 offers; 10 preorders in 30 days,BOP-Intro; BOP-Plus,PDF playbook; mini-course,coaching calls,Discover and validate BOP-labeled fast offers with short idea→revenue loop.,Evidence-led sprints; weekly stage gates; copy+thumbnail A/B,10 preorders; CTR 3%+; email list +500,"- map ICP pains
+- shortlist 3 offers
+- build landing drafts
+- set analytics","- design hero copy
+- outline mini-video
+- prepare email capture
+- wire payment","- publish smoke test
+- route traffic
+- collect telemetry
+- review gate",Ada,Exec Board,Team BOP,Marketing; Finance,JV-Labs,medium,dependency on ad budget,launch smoke test v1,2025-11-15,2025-10-19T13:16:00Z,data/evidence/bop_accel.ndjson,72,balanced,Good initial copy traction.
+d7a470a7aff9,LazyLarry — Fiverr Gig Factory,,gig-platform,fiverr-revenue,,local,fiverr,asset-creation,58,5 paid gigs/week within 45 days,Gig Setup; Gig Optimizer,thumbnail packs,gig creation/optimization,Create a repeatable system to ship high-converting gigs.,SEO-first listings; thumbnail testing; delivery SLAs,Impressions 10k/w; CTR 3.5%; 5 orders/w,"- research top gigs
+- draft 3 offers
+- write SEO titles
+- prepare thumbnails","- publish first gig
+- add 3 FAQs
+- set price tiers
+- define delivery checklist","- request early reviews
+- monitor CTR
+- tweak keywords
+- relaunch if needed",Lee,Revenue Council,LL Core,Support; Design,External-thumbnail-studio,low,thumbnail iteration time,publish second gig,2025-11-10,2025-10-19T13:16:00Z,data/evidence/lazylarry.ndjson,79,conversion,First gig CTR 3.1%
+e97d93a36b7e,Propulse — Launch Engine,,core-platform,multi-channel-launch,,local,web,offer-design,46,Reduce launch cycle to 7 days,Propulse Basic; Propulse Pro,automation scripts,launch ops,One-button packages to ship assets across channels.,Templates; checklists; one-click deploys,TTR (idea→live) <= 7d; error rate <1%,"- map integrations
+- design package schema
+- write runbooks
+- define telemetry","- implement adapter layer
+- create CLI
+- compose workflows
+- add e2e tests","- dry-run launch
+- log evidence
+- iterate config
+- publish v0.2",Ravi,CTO,Propulse Core,Ops; QA,DevTools Vendor,medium,adapter complexity,spike Shopify adapter,2025-12-01,2025-10-19T13:16:00Z,data/evidence/propulse.ndjson,75,balanced,Needs adapter catalog.
+3375d3e5b531,YouTube-AI — Autopilot Content Stream,,media-automation,content-to-revenue,,local,youtube,channel-packaging,62,3 monetizable videos/week; RPM>$4,YT Script Kit; Thumbnail Kit,scripts; thumbnails; captions,content automation,"Ship steady, branded content that converts to subs and revenue.",Topic clusters; 80/20 scripting; CTA experiments,Weekly: 3 videos; 1k new subs/month,"- build topic map
+- outline scripts
+- draft hooks
+- render thumbnails","- upload 3/week
+- add SEO metadata
+- publish shorts
+- schedule community posts","- monitor retention
+- test titles
+- tweak CTAs
+- track RPM",Imani,Growth Board,YT Ops,Design; Analytics,Captioning vendor,medium,thumbnail churn,pilot two title variants,2025-11-12,2025-10-19T13:16:00Z,data/evidence/yta.ndjson,82,seo,Retention improved to 45% @1m.
+a148c4dcc87b,Command Center — Portfolio Orchestrator,,core-platform,portfolio-control,,local,web,launch,88,Single pane for ops; 100% teams onboarded,Control Center,dashboard,ops orchestration,"Centralize execution, evidence, and governance.",Minimal base; extensions via plugins,Onboard 6 teams; weekly telemetry in 100% projects,"- wire registry API
+- enable WBS view
+- add evidence links
+- expose patch endpoint","- connect auth/JWT
+- pin data dir
+- load families
+- render phases","- publish docs
+- run UAT
+- prepare training
+- roll out",Bo,COO,Ops Core,All teams,Analytics vendor,low,none,finalize training kit,2025-10-30,2025-10-19T13:16:00Z,data/evidence/cmd.ndjson,90,brand,Ready to announce.
+1dfda8afe3c7,AI Money Machine — Gig Funnels,,experiment,income-acceleration,,local,fiverr,pre-dev,12,$2k MRR in 60 days,Funnel Setup; Optimization,template packs,funnel ops,Test a fast lane to repeatable gigs revenue.,High-intent keywords; DFY bundles; A/B delivery,MRR $2k; CAC:LTV > 1:3,"- pick niche
+- map funnel
+- draft gig set
+- prepare SOP","- seed portfolio
+- create offers
+- write descriptions
+- define SLA","- publish 2 gigs
+- gather reviews
+- tune packages
+- relist",Zeynep,Revenue Council,AIMM,Support,JV Partner,high,niche uncertainty,choose top 2 niches,2025-11-20,2025-10-19T13:16:00Z,data/evidence/aimm.ndjson,64,conversion,Risk accepted for learning velocity.
